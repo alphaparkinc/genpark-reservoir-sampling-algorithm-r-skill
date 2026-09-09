@@ -1,0 +1,13 @@
+{
+  "name": "genpark-reservoir-sampling-algorithm-r-skill",
+  "version": "1.0.0",
+  "description": "Reservoir Sampling Algorithm R selecting a uniform random sample of k items from an unbounded, single-pass data stream in O(N).",
+  "topics": [
+    "genpark-skill",
+    "agentic-ai",
+    "reservoir-sampling",
+    "streaming-algorithms",
+    "probabilistic-sampling",
+    "data-streams"
+  ]
+}
